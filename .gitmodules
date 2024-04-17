@@ -1,0 +1,6 @@
+[submodule "FireAlarm-server"]
+	path = FireAlarm-server
+	url = https://github.com/AlexZhu2001/FireAlarm-server.git
+[submodule "FireAlarm-front"]
+	path = FireAlarm-front
+	url = https://github.com/AlexZhu2001/FireAlarm-front.git
